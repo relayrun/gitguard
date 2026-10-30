@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature ideas and suggestions
+    url: https://github.com/relayrun/gitguard/discussions/categories/ideas
+    about: Discuss a proposed improvement before creating an implementation task.
+  - name: Usage questions
+    url: https://github.com/relayrun/gitguard/discussions/categories/q-a
+    about: Ask the community about setup and use; accepted answers are easier to find later.

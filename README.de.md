@@ -4,6 +4,8 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [Русский](README.ru.md)
 
+[Funktionsvorschläge](https://github.com/relayrun/gitguard/discussions/categories/ideas) · [Fragen und Antworten](https://github.com/relayrun/gitguard/discussions/categories/q-a) · [Problem melden](https://github.com/relayrun/gitguard/issues/new/choose) · [Mitwirken (Englisch)](docs/CONTRIBUTING.md)
+
 ## 1. Git Guard in 40 Sekunden
 
 https://github.com/user-attachments/assets/ecab6d6e-2d90-43f7-880c-8a343a9ac9f1
