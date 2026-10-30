@@ -8,7 +8,7 @@
 
 [![观看中文视频](assets/videos/RelayRun-GitGuard-Intro-zh-CN-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-zh-CN-v12.mp4)
 
-[观看中文视频 · MP4 · 40 s](assets/videos/RelayRun-GitGuard-Intro-zh-CN-v12.mp4)
+[观看中文视频 · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-zh-CN-v12.mp4)
 
 ## 二、AI 做好合并前的准备，人掌握最终决定
 

@@ -8,7 +8,7 @@
 
 [![Watch the English video](assets/videos/RelayRun-GitGuard-Intro-en-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-en-v12.mp4)
 
-[Watch the English video · MP4 · 40 s](assets/videos/RelayRun-GitGuard-Intro-en-v12.mp4)
+[Watch the English video · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-en-v12.mp4)
 
 ## 2. AI prepares the changes. People make the final decision.
 

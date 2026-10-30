@@ -8,7 +8,7 @@
 
 [![Voir la vidéo en français](assets/videos/RelayRun-GitGuard-Intro-fr-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-fr-v12.mp4)
 
-[Voir la vidéo en français · MP4 · 40 s](assets/videos/RelayRun-GitGuard-Intro-fr-v12.mp4)
+[Voir la vidéo en français · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-fr-v12.mp4)
 
 ## 2. L’IA prépare, les personnes décident
 

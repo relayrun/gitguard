@@ -8,7 +8,7 @@
 
 [![Смотреть видео на русском](assets/videos/RelayRun-GitGuard-Intro-ru-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-ru-v12.mp4)
 
-[Смотреть видео на русском · MP4 · 40 с](assets/videos/RelayRun-GitGuard-Intro-ru-v12.mp4)
+[Смотреть видео на русском · MP4 · 40 с](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-ru-v12.mp4)
 
 ## 2. ИИ готовит изменения. Человек принимает решение.
 

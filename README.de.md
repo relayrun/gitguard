@@ -8,7 +8,7 @@
 
 [![Video auf Deutsch ansehen](assets/videos/RelayRun-GitGuard-Intro-de-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-de-v12.mp4)
 
-[Video auf Deutsch ansehen · MP4 · 40 s](assets/videos/RelayRun-GitGuard-Intro-de-v12.mp4)
+[Video auf Deutsch ansehen · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-de-v12.mp4)
 
 ## 2. Die KI bereitet vor. Menschen entscheiden.
 
