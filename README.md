@@ -6,9 +6,9 @@
 
 ## 1. Git Guard in 40 seconds
 
-[![Watch the English video](assets/videos/RelayRun-GitGuard-Intro-en-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-en-v12.mp4)
+https://github.com/user-attachments/assets/db6e114a-9859-42f0-92a8-559d353908ef
 
-[Watch the English video · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-en-v12.mp4)
+[Download English video · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-en-v12.mp4)
 
 ## 2. AI prepares the changes. People make the final decision.
 

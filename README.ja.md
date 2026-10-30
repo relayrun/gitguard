@@ -6,9 +6,9 @@
 
 ## 1. 40秒でわかる Git Guard
 
-[![日本語の動画を見る](assets/videos/RelayRun-GitGuard-Intro-ja-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-ja-v12.mp4)
+https://github.com/user-attachments/assets/c46736c5-128f-4f7a-bb96-b0325596ac3f
 
-[日本語の動画を見る · MP4 · 40秒](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-ja-v12.mp4)
+[日本語動画をダウンロード · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-ja-v12.mp4)
 
 ## 2. AI が準備し、人が最後に判断する
 

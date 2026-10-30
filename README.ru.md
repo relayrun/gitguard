@@ -6,9 +6,9 @@
 
 ## 1. Git Guard за 40 секунд
 
-[![Смотреть видео на русском](assets/videos/RelayRun-GitGuard-Intro-ru-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-ru-v12.mp4)
+https://github.com/user-attachments/assets/eb50c17b-c7ba-4b89-8f8b-d947d2650349
 
-[Смотреть видео на русском · MP4 · 40 с](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-ru-v12.mp4)
+[Скачать видео на русском · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-ru-v12.mp4)
 
 ## 2. ИИ готовит изменения. Человек принимает решение.
 
