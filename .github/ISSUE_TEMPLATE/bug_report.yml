@@ -1,0 +1,41 @@
+name: Bug report
+description: Report a reproducible problem in Git Guard guidance, skills, scripts or examples.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Git Guard. Reports in any supported language are welcome.
+        For usage questions, use Discussions Q&A. Do not include credentials, private repository contents or unredacted logs/screenshots.
+  - type: input
+    id: affected-content
+    attributes:
+      label: Affected page, script or example
+      description: Include a public link or repository-relative path and the version/commit if known.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Give the smallest reproducible example with invented or public data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: Include relevant error text after removing private information.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Relevant environment
+      description: Operating system, Git or hosting-platform version, and browser if relevant. Omit private hostnames and account details.

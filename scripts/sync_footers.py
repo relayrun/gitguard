@@ -66,6 +66,7 @@ def reader_pages(root):
     return sorted(p.relative_to(root).as_posix() for p in root.rglob('*.md')
                   if not any(part in SKIP_DIRS for part in p.relative_to(root).parts)
                   and p.name != 'SKILL.md'
+                  and p.relative_to(root).parts[0] != '.github'
                   and not (p.relative_to(root).parts[0] == 'templates' and p.name != 'README.md'))
 
 

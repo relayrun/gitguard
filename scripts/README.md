@@ -30,8 +30,9 @@ Without `--write`, the tool does not change files. It replaces only a recognized
 complete footer block, preserves the preceding page body and rejects missing or ambiguous markers,
 unexpected content after a footer, and paths outside this project. The common
 template is the maintained source; generated pages refresh when the tool runs.
-The bulk selection excludes machine-facing SKILL.md instructions and reusable
-template bodies; their directory README pages still receive the shared footer.
+The bulk selection excludes machine-facing SKILL.md instructions, GitHub form
+and PR-template files under `.github/`, and reusable template bodies; their
+directory README pages still receive the shared footer except under `.github/`.
 Website resource pages supply branding in their shared reader wrapper. This tool
 performs no Git or network operations.
 
@@ -67,7 +68,8 @@ Use the generic profile for adopting projects. The stricter gitguard profile add
 The package builder makes a **new output directory outside the source**, preserves a hash manifest and includes a complete public reference snapshot so a generated skill works without the original repository. It performs no installation, network access, Git writes, deployment or backup.
 
 `prepare_release.py` uses this project's explicit public root-file and directory
-list. It preserves but omits development directories such as `.vs`, `.vscode`,
+list, including the reviewed GitHub community templates under `.github/`.
+It preserves but omits development directories such as `.vs`, `.vscode`,
 `.idea` and bytecode caches, recording exclusions in the output's private
 `REVIEW.json`. Only its `source/` directory is a public candidate. Unknown root
 files, linked paths, oversize files and unresolved scanner findings stop the

@@ -13,7 +13,7 @@ import check_public_content as check
 LOCALES = ('en', 'zh-CN', 'ja', 'de', 'fr', 'es', 'pt-BR', 'ru')
 ROOT_FILES = {'.gitignore', '.gitattributes', 'LICENSE', 'README.md'} | {
     'README.' + lang + '.md' for lang in LOCALES if lang != 'en'}
-ROOT_DIRS = {'docs', 'skills', 'templates', 'examples', 'scripts', 'assets'}
+ROOT_DIRS = {'docs', 'skills', 'templates', 'examples', 'scripts', 'assets', '.github'}
 RUNTIME_DIRS = {'.git', '.vs', '.vscode', '.idea', '__pycache__', '.venv', 'node_modules', 'build', 'dist', '.astro'}
 
 
