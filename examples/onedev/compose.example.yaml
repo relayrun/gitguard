@@ -1,0 +1,18 @@
+# Reference configuration only; inspect pinned images and host paths before use.
+services:
+  onedev:
+    image: ${ONEDEV_IMAGE:?Set an approved OneDev image tag or digest}
+    restart: unless-stopped
+    volumes:
+      - ${ONEDEV_DATA:?Set an independent absolute data directory}:/opt/onedev
+    expose:
+      - "6610"
+  gateway:
+    image: ${GATEWAY_IMAGE:?Set an approved Nginx image tag or digest}
+    restart: unless-stopped
+    depends_on:
+      - onedev
+    ports:
+      - "127.0.0.1:6610:8080"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro

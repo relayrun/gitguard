@@ -1,0 +1,2 @@
+test_id,platform_version,actor_role,access_path,operation,control_repository,before_state,expected_result,observed_result,actual_reason,after_state,positive_control,evidence_reference,status
+example-main-direct-push,record-version,restricted-contributor,record-path,ordinary-main-push,disposable-only,record-state,permission-denied,not-run,not-observed,not-observed,not-run,private-evidence-reference,NOT_VERIFIED

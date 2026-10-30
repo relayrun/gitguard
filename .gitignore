@@ -1,0 +1,14 @@
+.DS_Store
+._*
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.astro/
+.vs/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.venv/
