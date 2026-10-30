@@ -6,9 +6,9 @@
 
 ## 1. Git Guard in 40 Sekunden
 
-[![Video auf Deutsch ansehen](assets/videos/RelayRun-GitGuard-Intro-de-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-de-v12.mp4)
+https://github.com/user-attachments/assets/ecab6d6e-2d90-43f7-880c-8a343a9ac9f1
 
-[Video auf Deutsch ansehen · MP4 · 40 s](assets/videos/RelayRun-GitGuard-Intro-de-v12.mp4)
+[Deutsches Video herunterladen · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-de-v12.mp4)
 
 ## 2. Die KI bereitet vor. Menschen entscheiden.
 

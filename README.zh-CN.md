@@ -6,9 +6,9 @@
 
 ## 一、40 秒了解 Git Guard
 
-[![观看中文视频](assets/videos/RelayRun-GitGuard-Intro-zh-CN-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-zh-CN-v12.mp4)
+https://github.com/user-attachments/assets/57a60816-46f6-4d2c-9d86-fc95f84e8c8b
 
-[观看中文视频 · MP4 · 40 s](assets/videos/RelayRun-GitGuard-Intro-zh-CN-v12.mp4)
+[下载中文视频 · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-zh-CN-v12.mp4)
 
 ## 二、AI 做好合并前的准备，人掌握最终决定
 

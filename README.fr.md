@@ -6,9 +6,9 @@
 
 ## 1. Découvrez Git Guard en 40 secondes
 
-[![Voir la vidéo en français](assets/videos/RelayRun-GitGuard-Intro-fr-v12-Poster.png)](assets/videos/RelayRun-GitGuard-Intro-fr-v12.mp4)
+https://github.com/user-attachments/assets/f0d304cb-9597-4b79-8096-ea9fa4eb9e6e
 
-[Voir la vidéo en français · MP4 · 40 s](assets/videos/RelayRun-GitGuard-Intro-fr-v12.mp4)
+[Télécharger la vidéo française · MP4 · 40 s](https://raw.githubusercontent.com/relayrun/gitguard/main/assets/videos/RelayRun-GitGuard-Intro-fr-v12.mp4)
 
 ## 2. L’IA prépare, les personnes décident
 
