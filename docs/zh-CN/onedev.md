@@ -140,7 +140,7 @@ AI 按授权推送分支并准备标题、描述后，人工进入仓库的合�
 
 <a href="https://www.relayrun.net/"><img src="../../assets/brand/relayrun-lockup.png" alt="RelayRun" width="128" height="128"></a>
 
-**[WWW.RELAYRUN.NET](https://www.relayrun.net/)**
+**[www.relayrun.net](https://www.relayrun.net/)**
 
 © 2026 RelayRun
 

@@ -15,7 +15,7 @@ Adapt the placeholders to your own repository. Keep real credentials, private id
 
 <a href="https://www.relayrun.net/"><img src="../assets/brand/relayrun-lockup.png" alt="RelayRun" width="128" height="128"></a>
 
-**[WWW.RELAYRUN.NET](https://www.relayrun.net/)**
+**[www.relayrun.net](https://www.relayrun.net/)**
 
 © 2026 RelayRun
 

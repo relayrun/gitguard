@@ -60,7 +60,7 @@ Se um limite obrigatório falhar ou não for verificado, declare a lacuna. Diga 
 
 <a href="https://www.relayrun.net/"><img src="../../assets/brand/relayrun-lockup.png" alt="RelayRun" width="128" height="128"></a>
 
-**[WWW.RELAYRUN.NET](https://www.relayrun.net/)**
+**[www.relayrun.net](https://www.relayrun.net/)**
 
 © 2026 RelayRun
 

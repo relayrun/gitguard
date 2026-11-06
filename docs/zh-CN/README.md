@@ -48,7 +48,7 @@ Git Guard 提供协作流程及保护要求，不会因为阅读文档就安装 
 
 <a href="https://www.relayrun.net/"><img src="../../assets/brand/relayrun-lockup.png" alt="RelayRun" width="128" height="128"></a>
 
-**[WWW.RELAYRUN.NET](https://www.relayrun.net/)**
+**[www.relayrun.net](https://www.relayrun.net/)**
 
 © 2026 RelayRun
 

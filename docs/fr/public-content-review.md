@@ -81,7 +81,7 @@ Le vérificateur fourni est un nouvel outil écrit pour Git Guard. Il ne charge 
 
 <a href="https://www.relayrun.net/"><img src="../../assets/brand/relayrun-lockup.png" alt="RelayRun" width="128" height="128"></a>
 
-**[WWW.RELAYRUN.NET](https://www.relayrun.net/)**
+**[www.relayrun.net](https://www.relayrun.net/)**
 
 © 2026 RelayRun
 
