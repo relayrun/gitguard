@@ -54,7 +54,7 @@ class FooterTests(unittest.TestCase):
                 self.assertEqual(page.read_bytes(), before)  # Planning is read-only.
                 text = after.decode('utf-8')
                 self.assertIn(f'src="{prefix}assets/brand/relayrun-lockup.png"', text)
-                self.assertIn('[WWW.RELAYRUN.NET](https://www.relayrun.net/)', text)
+                self.assertIn('[www.relayrun.net](https://www.relayrun.net/)', text)
                 self.assertNotIn('LICENSE', text)
                 self.assertNotIn('MIT', text)
 
